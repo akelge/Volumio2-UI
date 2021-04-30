@@ -1,9 +1,9 @@
 // COLORS
-$theme-primary-color: #54C688;
+$theme-primary-color: #5880d6;
 $theme-accent-color: #333;
 $theme-danger-color: #DF4649;
-$theme-light-color: #7a848e;
-$theme-dark-color: #3C3C3C;
+$theme-light-color: #596067;
+$theme-dark-color: #242424;
 $theme-darker-color: #090909;
 $theme-header-color: $theme-darker-color;
 $theme-footer-color: $theme-darker-color;
@@ -35,8 +35,8 @@ $body-bg: transparent;
 $brand-primary: #222;
 
 $knob-foreground-color: $theme-primary-color;
-$knob-background-color: rgba(0, 0, 0, 0.4);
-$knob-content-background-color: rgba(0, 0, 0, 0.7);
+$knob-background-color: rgba(0, 0, 0, 0.6);
+$knob-content-background-color: rgba(0, 0, 0, 0.4);
 
 // FONTS
 $fonts-path: "/app/themes/volumio/assets/variants/volumio/fonts";

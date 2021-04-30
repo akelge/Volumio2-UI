@@ -1,18 +1,17 @@
 @import "globals.scss";
 
 // COLORS
-$theme-primary-color: #54C688;
-// $theme-accent-color: #333;
-$theme-accent-color: #888;
+$theme-primary-color: #5880d6;
+$theme-accent-color: #333;
 $theme-danger-color: #DF4649;
-$theme-light-color: #7a848e;
+$theme-light-color: #596067;
 $theme-dark-color: #242424;
 $theme-darker-color: #090909;
 $theme-header-color: $theme-darker-color;
 $theme-footer-color: $theme-darker-color;
 $theme-source-active-color: $theme-primary-color;
 $theme-background-color: #555;
-$theme-transparent-buttons-background: rgba(0, 0, 0, 0.6);
+$theme-transparent-buttons-background: rgba(0, 0, 0, 0.2);
 $theme-transparent-background: rgba(20, 20, 20, 0.6);
 $theme-dark-transparent-background: rgba(0, 0, 0, 0.6);
 $theme-playbtn-gradient: linear-gradient(top, rgba(0, 0, 0, 0.0) 0%, rgba(0, 0, 0, 0.0) 72%, rgba(0, 0, 0, 0.6) 72%,
@@ -28,13 +27,13 @@ $theme-footer-link-selected-background-color: $theme-accent-color;
 $theme-footer-link-hover-color: white;
 $theme-link-playback-color: $theme-primary-color;
 $theme-background-hover-dark: rgba(20, 20, 20, 0.6);
-$theme-background-hover-bright: rgba(white, 0.3);
+$theme-background-hover-bright: rgba(white, 0.1);
 $theme-background-hover-accent: rgba($theme-primary-color, 0.3);
 $body-bg: transparent;
 $brand-primary: #222;
 $knob-foreground-color: $theme-primary-color;
-$knob-background-color: rgba(0, 0, 0, 0.4);
-$knob-content-background-color: rgba(0, 0, 0, 0.7);
+$knob-background-color: rgba(0, 0, 0, 0.6);
+$knob-content-background-color: rgba(0, 0, 0, 0.4);
 
 // VOLUMIO 3 UI
 $theme-dark-grey: #808080;
