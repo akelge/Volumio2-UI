@@ -1,0 +1,2 @@
+Main color: #3a77fa
+In RGB: 58, 119, 250

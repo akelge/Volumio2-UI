@@ -17,15 +17,15 @@ cd dist
 git init
 
 # inside this git repo we'll pretend to be a new user
-git config user.name "Volumio"
-git config user.email "info@volumio.org"
+git config user.name "akelge"
+git config user.email "akelge@gmail.com"
 
 # Deploy
 git add .
 git commit -m "Deploy to Dist Branch"
 
 # Force push from the current repo's master branch to the dist branch for deployment
-git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:dist > /dev/null 2>&1
+git push --force --quiet "https://github.com/akelge/Volumio2-UI.git" master:dist > /dev/null 2>&1
 
 cd ..
 # VOLUMIO3 THEME
@@ -52,4 +52,4 @@ git add .
 git commit -m "Deploy to Dist3 Branch"
 
 # Force push from the current repo's master branch to the dist branch for deployment
-git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:dist3 > /dev/null 2>&1
+git push --force --quiet "https://github.com/akelge/Volumio2-UI.git" master:dist3 > /dev/null 2>&1
