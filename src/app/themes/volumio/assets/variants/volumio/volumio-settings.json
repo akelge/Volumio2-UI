@@ -1,6 +1,6 @@
 {
-  "app": "Volumio",
-  "pageTitle": "Volumio - Audiophile Music Player",
+  "app": "the musicalBOX",
+  "pageTitle": "the musicalBOX",
   "sideMenu": {
     "checkboxes": {
         "analogInput": false,
