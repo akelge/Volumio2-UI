@@ -145,7 +145,7 @@ gulp.task('meta-cards', ['html'], function () {
       websiteUrl = 'https://myvolumio-dev.firebaseapp.com';
     }
     var tagline = 'The audiophile music player designed and fine-tuned for high quality music playback';
-    var title = 'Volumio - The Audiophile Music Player';
+    var title = 'the musicalBox - The Audiophile Music Player';
     var metaImageUrl = websiteUrl + '/app/assets-common/volumio-meta.jpg';
     metaCardsContent = '<meta property="og:type" content="website">';
     metaCardsContent  += '<meta property="og:url" content="'+ websiteUrl +'">';
