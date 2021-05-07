@@ -1,6 +1,6 @@
 {
-  "app": "the musicalBOX",
-  "pageTitle": "the musicalBOX",
+  "app": "theMusicalBOX",
+  "pageTitle": "theMusicalBOX",
   "sideMenu": {
     "checkboxes": {
         "analogInput": false,
