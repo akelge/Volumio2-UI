@@ -82,7 +82,8 @@
         "YEAR": "Jahr",
         "GENRE": "Genre",
         "EDIT": "Bearbeiten",
-        "GRID": "Gitter"
+        "GRID": "Gitter",
+        "REMOVE": "Entfernen"
     },
     "BROWSER": {
         "PLAY": "Wiedergeben",
@@ -267,7 +268,14 @@
         "NOW_PLAYING": "Wird wiedergegeben",
         "PLAYBACK_ZONES": "Wiedergabezonen",
         "ZONES": "Zonen",
-        "AUDIO_OUTPUTS_AND_ZONES": "Audioausgänge und Zonen"
+        "AUDIO_OUTPUTS_AND_ZONES": "Audioausgänge und Zonen",
+        "ZONES_AND_OUTPUTS": "Zonen & Ausgänge",
+        "GROUP_DEVICES": "Geräte gruppieren",
+        "THIS_DEVICE": "Dieses Gerät",
+        "ACTIVE_GROUP": "Aktive Gruppe",
+        "REMOVE_ALL_DEVICES": "Alle Geräte entfernen",
+        "AVAILABLE_DEVICES": "Verfügbare Geräte",
+        "SYNCED_PLAYBACK_NOT_AVAILABLE": "Synchrone Wiedergabe nicht verfügbar"
     },
     "SIDEMENU": {
         "ANALOG_INPUT": "Analoger Eingang",
@@ -410,7 +418,7 @@
         "COUPON_CODE": "Gutscheincode",
         "HAVE_COUPON_CODE": "Ich habe eine Gutscheincode",
         "FINISH_SIGNUP": "Registrierung abschließen",
-        "CREATING_ACCOUNT": "Erstelle Account…",
+        "CREATING_ACCOUNT": "Account wird erstellt…",
         "UPGRADE_MYVOLUMIO": "Upgrade MyVolumio",
         "PREMIUM_STREAMING_TITLE": "Musik in Studioqualität zu Hause",
         "PREMIUM_STREAMING_FULLY_INTEGRATED_QOBUZ": "QOBUZ ist vollständig in Volumio integriert",
