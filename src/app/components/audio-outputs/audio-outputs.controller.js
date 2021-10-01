@@ -1,8 +1,9 @@
 class AudioOutputsController {
-  constructor($log, audioOutputsService, socketService) {
+  constructor($log, audioOutputsService, socketService, playerService) {
     "ngInject";
     this.audioOutputsService = audioOutputsService;
     this.socketService = socketService;
+    this.playerService = playerService;
     this.$log = $log;
 
     this.menuVisible = false;
@@ -57,7 +58,9 @@ class AudioOutputsController {
   }
 
   onDeviceClick(device) {
-    this.socketService.host = device.host;
+    if (device.host) {
+      this.socketService.host = device.host;
+    }
   }
 
   toggleView() {
