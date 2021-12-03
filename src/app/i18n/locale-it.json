@@ -421,8 +421,8 @@
     "PREMIUM_STREAMING_TITLE": "Qualità Studio a casa",
     "PREMIUM_STREAMING_FULLY_INTEGRATED_QOBUZ": "QOBUZ è integrato nativamente in Volumio",
     "PREMIUM_STREAMING_FULLY_INTEGRATED_TIDAL": "TIDAL è integrato nativamente in Volumio",
-    "PREMIUM_STREAMING_AVAILABILITY_QOBUZ": "QOBUZ è disponibile per gli utenti MyVolumio Virtuoso e Superstar.",
-    "PREMIUM_STREAMING_AVAILABILITY_TIDAL": "TIDAL è disponibile per gli utenti MyVolumio Virtuoso e Superstar.",
+    "PREMIUM_STREAMING_AVAILABILITY_QOBUZ": "QOBUZ è disponibile per gli utenti Volumio Premium.",
+    "PREMIUM_STREAMING_AVAILABILITY_TIDAL": "TIDAL è disponibile per gli utenti Volumio Premium.",
     "MONTH": "mese",
     "UPGRADE_FROM": "Aggiorna da",
     "MORE_INFO": "Più informazioni",
@@ -480,7 +480,7 @@
     "REFERRAL_FAQ_BODY_8": "Non c'è nessun limite! Più consigli MyVolumio, più probabilità hai di essere il primo di questo mese e vincere un abbonamento a vita!",
     "ACCOUNT":"Account",
     "MODAL_DISCOVERY_PREMIUM_TITLE": "Crediti e storia di artisti e album",
-    "MODAL_DISCOVERY_PREMIUM_HEADING": "Questa funzionalità è disponibile per gli utenti MyVolumio Superstar",
+    "MODAL_DISCOVERY_PREMIUM_HEADING": "Questa funzionalità è disponibile per gli utenti Volumio Premium",
     "MODAL_DISCOVERY_PREMIUM_TEXT": "Metadati avanzati per la tua musica e molto altro",
     "WELCOME": "Benvenuto",
     "LANDING_REFERRAL_WELCOME_TEXT1": "Un amico ti ha raccomandato di usare Volumio e ti ha invitato a provarlo? Bene, benvenuto!",
@@ -503,7 +503,9 @@
     "LANDING_FEATURE_BACKUP_TEXT": "Tutti i tuoi preferiti, le tue playlists e le tue radio web sono automaticamente sincronizzati su tutti i tuoi dispositivi e salvati, in modo da apparire automaticamente se aggiungi un nuovo dispositivo MyVolumio.",
     "LANDING_FEATURE_CD_TITLE": "Riproduzione e salvataggio CD",
     "LANDING_FEATURE_CD_TEXT": "Riscopri la tua collezione di CD semplicemente collegando qualsiasi lettore CD USB al tuo dispositivo Volumio. Riproduci e salva i tuoi CD in formato lossless.",
-    "NO_THANKS_NOT_INTERESTED": "No grazie, non sono interessato"
+    "NO_THANKS_NOT_INTERESTED": "No grazie, non sono interessato",
+    "GO_PREMIUM": "Passa a Premium",
+    "SAVE": "Risparmia"
   },
   "MYVOLUMIO_PLANS": {
     "LATEST_NEWS": "Ricevi tutte le ultime notizie su MyVolumio",
@@ -523,7 +525,21 @@
     "ALL_VIRTUOSO_FEATURES":"Tutte le funzioni virtuoso",
     "MUSIC_METADATA":"Consultazione dei crediti di Musica e Artisti",
     "MODAL_DISCOVERY_PREMIUM_TITLE": "Consultazione dei crediti di Musica e Artisti",
-    "MODAL_DISCOVERY_PREMIUM_HEADING": "Questa funzionalità è disponibile per gli utenti MyVolumio Superstar",
-    "MODAL_DISCOVERY_PREMIUM_TEXT": "Metadati avanzati per la tua musica e molto altro"
+    "MODAL_DISCOVERY_PREMIUM_HEADING": "Questa funzionalità è disponibile per gli utenti Volumio Premium",
+    "MODAL_DISCOVERY_PREMIUM_TEXT": "Metadati avanzati per la tua musica e molto altro",
+    "ALL_FREE_FEATURES": "Tutte le funzioni free",
+    "MANIFEST_UI": "Interfaccia Manifest",
+    "MULTIROOM_PLAYBACK": "Riproduzione multistanza",
+    "FILES_PLAYBACK" : "Riproduzione di file",
+    "WEBRADIOS_DIRECTORY" : "Liste di Radio Web",
+    "ALARM_AND_SLEEP_FUNCTION": "Funzione sveglia e sleep",
+    "PLUGINS_STORE": "Negozio dei plugins",
+    "DLNA_UPNP_BROWSING": "Consultazione DLNA e UPNP",
+    "AIRPLAY_PLAYBACK": "Riproduzione Airplay",
+    "UPNP_RENDERER_PLAYBACK": "Riproduzione UPNP",
+    "CONTEMPORARY_UI": "Interfaccia utente Web",
+    "IOS_ANDROID_APP": "App iOS e Android",
+    "NETWORK_STORAGE_SUPPORT": "Riproduzione da hard disk di rete",
+    "OVER_THE_AIR_UPDATES": "Aggiornamenti Over The Air"
   }
 }
